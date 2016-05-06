@@ -1,3 +1,3 @@
 # test-jruby-rubygems
 
-Hi
+Hi.
