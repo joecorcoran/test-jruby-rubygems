@@ -1,0 +1,3 @@
+# test-jruby-rubygems
+
+Hi
